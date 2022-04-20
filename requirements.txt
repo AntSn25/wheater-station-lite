@@ -1,5 +1,2 @@
 Flask
-bootstrap-flask
-flask-wtf
 RPi.bme280
-pyyaml
